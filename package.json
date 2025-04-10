@@ -1,0 +1,20 @@
+{
+	"scripts": {
+		"start": "nodemon ok.js"
+	},
+	"dependencies": {
+		"@tensorflow-models/posenet": "^2.2.2",
+		"@tensorflow/tfjs": "^3.21.0",
+		"cors": "^2.8.5",
+		"d3": "^7.9.0",
+		"express": "^5.1.0",
+		"jquery": "^3.7.1",
+		"koa": "^2.16.1",
+		"koa-router": "^13.0.1",
+		"koa2-cors": "^2.0.6",
+		"mongoose": "^8.13.2",
+		"multer": "^1.4.5-lts.2",
+		"nodemon": "^3.1.9",
+		"three": "^0.175.0"
+	}
+}
